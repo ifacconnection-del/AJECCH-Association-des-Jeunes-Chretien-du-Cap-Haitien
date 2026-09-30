@@ -1,0 +1,21 @@
+export const SPONSORS: string[] = [
+  "Alliance Française Cap-Haïtien",
+  "Antoine Steeve Daniel",
+  "Wood-Jerry Joseph",
+  "ECE Global",
+  "Institution Le Coin des Petits",
+  "La Main Divine Bazar",
+  "Le Phare Multi-Services",
+  "Bon Shop Tailleur",
+  "Loune Mini Pharma",
+  "J&A Cell",
+  "EMERGENCY Lab",
+  "Rosie Gourmet 23 1",
+  "Excelsior Store",
+  "Benignité",
+  "DSH Screen Printing",
+  "Pi Plenpanik",
+  "NOUSA",
+  "BPE Production",
+  "Crystal Magazine"
+];
